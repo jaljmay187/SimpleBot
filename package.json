@@ -38,8 +38,11 @@
         "url": "https://github.com/BrunoSobrino/SimpleBot/issues"
     },
     "license": "GPL-3.0-or-later",
+    "engines": {
+        "node": "20.x"
+    },
     "dependencies": {
-        "@whiskeysockets/baileys": "^4.3.0",
+        "@whiskeysockets/baileys": "^4.4.0",  // استخدام أحدث إصدار متاح
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
         "api-dylux": "^1.6.2",
