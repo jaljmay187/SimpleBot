@@ -40,34 +40,32 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys",
+        "@whiskeysockets/baileys": "^4.3.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
-        "api-dylux": "^1.5.6",
-        "awesome-phonenumber": "^2.58.0",
-        "axios": "^0.24.0",
-        "brainly-scraper-v2": "^2.0.9",
+        "api-dylux": "^1.6.2",
+        "awesome-phonenumber": "^2.68.0",
+        "axios": "^1.1.3",
         "cfonts": "^2.10.0",
-        "chalk": "^4.1.2",
+        "chalk": "^5.0.0",
         "cheerio": "^1.0.0-rc.10",
         "colors": "1.4.0",
         "express": "^4.17.3",
-        "file-type": "^16.5.3",
+        "file-type": "^17.1.1",
         "fluent-ffmpeg": "^2.1.2",
-        "form-data": "^4.0.0",
+        "form-data": "^4.3.2", // تم تحديث الإصدار
         "hispamemes": "^1.0.7",
         "human-readable": "^0.2.1",
         "imgbb-uploader": "^1.3.5",
-        "instagram-url-direct": "^1.0.12",
-        "jsdom": "^18.1.1",
+        "instagram-url-direct": "^1.0.13", // تم تحديث الإصدار
+        "jsdom": "^19.0.0",
         "lodash": "^4.17.21",
-        "lowdb": "^2.1.0",
+        "lowdb": "^3.0.0", // تم تحديث الإصدار
         "moment-timezone": "^0.5.34",
-        "mongoose": "^6.0.14",
-        "node-fetch": "^2.6.6",
+        "mongoose": "^6.3.3", // تم تحديث الإصدار
+        "node-fetch": "^3.2.0",
         "node-gtts": "^2.0.2",
-        "node-os-utils": "^1.3.5",
-        "node-webpmux": "^3.1.0",
+        "node-webpmux": "^3.1.1", // تم تحديث الإصدار
         "nodemon": "^2.0.15",
         "perf_hooks": "^0.0.1",
         "qrcode": "^1.5.0",
@@ -77,10 +75,9 @@
         "socket.io": "^4.4.1",
         "syntax-error": "^1.4.0",
         "terminal-image": "^2.0.0",
-        "url-regex-safe": "^2.1.0",
-        "wa-sticker-formatter": "^4.0.14",
-        "yargs": "^17.2.1",
-        "ytdl-core": "^4.11.2",
-        "yt-search": "^2.10.2"
+        "url-regex-safe": "^3.0.0", // تم تحديث الإصدار
+        "wa-sticker-formatter": "^4.3.2",
+        "yargs": "^17.3.1",
+        "ytdl-core": "github:khlevon/node-ytdl-core#v4.11.4-patch.2"
     }
 }
