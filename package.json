@@ -42,7 +42,7 @@
         "node": "20.x"
     },
     "dependencies": {
-        "@whiskeysockets/baileys": "^4.4.0",
+        "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
         "api-dylux": "^1.6.2",
